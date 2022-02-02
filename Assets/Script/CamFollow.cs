@@ -11,4 +11,6 @@ public class CamFollow : MonoBehaviour
         // 카메라의 위치를 목표 트랜스폼의 위치에 일치시킨다.
         transform.position = target.position;
     }
+
+    //깃허브 테스트
 }
